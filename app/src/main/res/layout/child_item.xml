@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#D0E1EF"
+    android:orientation="vertical">
+
+    <!-- Child Summary -->
+    <TextView
+        android:id="@+id/childSummary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        android:padding="15dp"
+        android:textSize="18sp" />
+</LinearLayout>

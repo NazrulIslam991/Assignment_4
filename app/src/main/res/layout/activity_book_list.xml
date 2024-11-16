@@ -2,13 +2,15 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/Home"
     android:orientation="vertical">
 
     <TextView
+        android:id="@+id/sub_title_book"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:text="@string/types_of_books"
+        android:text="@string/books"
         android:gravity="center"
         android:padding="20dp"
         android:textSize="30sp"
@@ -16,8 +18,10 @@
         android:background="@color/Home"
         />
 
-    <ListView
-        android:id="@+id/listView"
+
+    <ExpandableListView
+        android:id="@+id/expandableListView"
         android:layout_width="match_parent"
+        android:background="@color/white"
         android:layout_height="match_parent" />
 </LinearLayout>

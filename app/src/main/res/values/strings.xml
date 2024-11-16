@@ -1,3 +1,286 @@
 <resources>
     <string name="app_name">Assignment_4</string>
+
+    <!-- Science Book Titles -->
+    <string name="martian_title">The Martian by Andy Weir</string>
+    <string name="contact_title">Contact by Carl Sagan</string>
+    <string name="jurassic_title">Jurassic Park by Michael Crichton</string>
+    <string name="frankenstein_title">Frankenstein by Mary Shelley</string>
+    <string name="andromeda_title">The Andromeda Strain by Michael Crichton</string>
+    <string name="brave_new_world_title">Brave New World by Aldous Huxley</string>
+    <string name="flowers_for_algernon_title">Flowers for Algernon by Daniel Keyes</string>
+    <string name="flatland_title">Flatland: A Romance of Many Dimensions by Edwin A. Abbott</string>
+    <string name="time_machine_title">The Time Machine by H.G. Wells</string>
+    <string name="invisible_man_title">The Invisible Man by H.G. Wells</string>
+    <string name="island_of_doctor_moreau_title">The Island of Doctor Moreau by H.G. Wells</string>
+
+    <!-- Science Book Summaries -->
+    <string name="martian_summary">"The Martian" is a gripping science fiction novel that follows the story of astronaut Mark Watney, who is stranded on Mars...</string>
+    <string name="contact_summary">"Contact" is a classic science fiction novel that explores the possibility of extraterrestrial life...</string>
+    <string name="jurassic_summary">"Jurassic Park" is a thrilling science fiction novel about a revolutionary amusement park where genetic scientists have brought dinosaurs back to life...</string>
+    <string name="frankenstein_summary">Often considered the first science fiction novel, "Frankenstein" tells the story of Victor Frankenstein, a scientist who discovers the secret to creating life...</string>
+    <string name="andromeda_summary">"The Andromeda Strain" is a science fiction thriller about a deadly extraterrestrial microorganism that is brought back to Earth by a satellite...</string>
+    <string name="brave_new_world_summary">"Brave New World" is a dystopian science fiction novel set in a future society where science and technology have advanced to the point of controlling every aspect of human life...</string>
+    <string name="flowers_for_algernon_summary">"Flowers for Algernon" tells the story of Charlie Gordon, a man with a low IQ who undergoes an experimental surgical procedure to increase his intelligence...</string>
+    <string name="flatland_summary">"Flatland" is a satirical science fiction novella that explores the concept of dimensions through the story of a two-dimensional world...</string>
+    <string name="time_machine_summary">"The Time Machine" is a science fiction novel that tells the story of an unnamed Time Traveller who invents a machine that allows him to journey into the distant future...</string>
+    <string name="invisible_man_summary">"The Invisible Man" follows the story of Griffin, a scientist who discovers the secret to invisibility but is driven mad by his newfound power...</string>
+    <string name="island_of_doctor_moreau_summary">"The Island of Doctor Moreau" is a science fiction novel about a shipwrecked man named Edward Prendick who finds himself on an isolated island ruled by Doctor Moreau...</string>
+
+
+
+
+
+    <!-- Fiction Book Titles -->
+    <string name="dune_title">Dune</string>
+    <string name="neuromancer_title">Neuromancer</string>
+    <string name="foundation_title">Foundation</string>
+    <string name="enders_game_title">Enders Game</string>
+    <string name="left_hand_of_darkness_title">The Left Hand of Darkness</string>
+    <string name="snow_crash_title">Snow Crash</string>
+    <string name="hyperion_title">Hyperion</string>
+    <string name="space_odyssey_title">2001: A Space Odyssey</string>
+    <string name="leviathan_wakes_title">The Expanse: Leviathan Wakes</string>
+
+    <!-- Fiction Book Summaries -->
+    <string name="dune_summary">Set in a far-future interstellar society, "Dune" tells the story of Paul Atreides, a young noble who moves to the desert planet Arrakis, the only source of the valuable "spice" melange, essential for space travel...</string>
+    <string name="neuromancer_summary">This cyberpunk classic follows Case, a washed-up computer hacker hired by a mysterious employer to pull off the ultimate hack. The novel is set in a dystopian future dominated by cybernetics, artificial intelligence, and cyberspace...</string>
+    <string name="foundation_summary">"Foundation" is the first book in a series that chronicles the collapse and rebirth of a future Galactic Empire. Mathematician Hari Seldon develops a theory called psychohistory, which predicts the empires fall...</string>
+    <string name="enders_game_summary">The story is set in a future where Earth faces the threat of an alien race known as the "Buggers." To prepare for the next invasion, exceptionally talented children are recruited and trained as military commanders...</string>
+    <string name="left_hand_of_darkness_summary">"The Left Hand of Darkness" is set on the planet Gethen, where the inhabitants are androgynous, taking on male or female traits only during mating periods. Genly Ai, an envoy from Earth, arrives to persuade the planet to join a larger interplanetary collective...</string>
+    <string name="snow_crash_summary">In a post-cyberpunk future, Hiro Protagonist is a pizza delivery guy by day and a hacker by night. He stumbles upon a new virtual drug called "Snow Crash" that has real-world consequences, threatening both cyberspace and the real world...</string>
+    <string name="hyperion_summary">"Hyperion" is a space opera that follows seven pilgrims as they journey to the distant world of Hyperion, each with a story that intertwines with the others. They are drawn by the mystery of the Shrike, a deadly creature that exists outside of time...</string>
+    <string name="space_odyssey_summary">"2001: A Space Odyssey" begins with the discovery of a mysterious monolith on the Moon, leading humanity to embark on a journey to Jupiter to uncover its secrets. The story follows the spaceship Discovery One and its onboard AI, HAL 9000, who begins to malfunction...</string>
+    <string name="leviathan_wakes_summary">"Leviathan Wakes" is the first book in The Expanse series. Set in a future where humanity has colonized the solar system, it follows Jim Holden, a spaceship officer, and Detective Miller as they unravel a conspiracy that threatens humanity...</string>
+
+
+
+
+
+
+    <!-- Thriller Books -->
+    <string name="girl_with_dragon_tattoo_title">The Girl with the Dragon Tattoo</string>
+    <string name="gone_girl_title">Gone Girl</string>
+    <string name="silent_patient_title">The Silent Patient</string>
+    <string name="shutter_island_title">Shutter Island</string>
+    <string name="woman_in_window_title">The Woman in the Window</string>
+    <string name="before_i_go_to_sleep_title">Before I Go to Sleep</string>
+    <string name="girl_on_train_title">The Girl on the Train</string>
+    <string name="reversal_title">The Reversal</string>
+    <string name="i_am_watching_you_title">I Am Watching You</string>
+    <string name="couple_next_door_title">The Couple Next Door</string>
+
+
+    <string name="girl_with_dragon_tattoo_summary">The first book in the Millennium Trilogy, this gripping thriller follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate the disappearance of Harriet Vanger, a young woman who vanished 40 years ago. Their investigation uncovers a deeply buried family secret, corruption, and a dark history. The novel combines murder mystery, family saga, love story, and financial intrigue into one sprawling narrative.</string>
+    <string name="gone_girl_summary">This psychological thriller centers around Nick and Amy Dunne’s troubled marriage. When Amy goes missing on their fifth wedding anniversary, the media frenzy and police investigation expose the cracks in their relationship. As Nick becomes the prime suspect, the story twists and turns, revealing shocking secrets. The novel is known for its unreliable narrators and dark commentary on marriage, media, and deception.</string>
+    <string name="silent_patient_summary">A psychological thriller that tells the story of Alicia Berenson, a celebrated painter who is accused of shooting her husband, Gabriel, five times in the face and then becoming mute. Theo Faber, a forensic psychologist, becomes obsessed with her case and attempts to uncover the truth behind the murder. As he delves deeper into Alicias past, Theo begins to unravel his own hidden truths.</string>
+    <string name="shutter_island_summary">Set in 1954, U.S. Marshal Teddy Daniels is sent to a psychiatric facility on Shutter Island to investigate the disappearance of a patient named Rachel Solando. As the investigation progresses, Teddy uncovers disturbing truths about the facility and begins to question his own reality. The novel is filled with twists and suspense, leading to an unforgettable and mind-bending conclusion.</string>
+    <string name="woman_in_window_summary">This modern psychological thriller follows Anna Fox, a reclusive woman who spends her days spying on her neighbors through her window. One day, she believes she has witnessed a crime in the house across the street: the violent murder of a woman. However, Anna suffers from agoraphobia, making her an unreliable witness. As she investigates further, the lines between reality and illusion blur.</string>
+    <string name="before_i_go_to_sleep_summary">This psychological thriller follows Christine Lucas, a woman who suffers from amnesia and loses her memory every night when she falls asleep. Each morning, she wakes up with no recollection of her past, her identity, or her husband. As she pieces together fragments of her life with the help of a therapist, Christine discovers unsettling truths about her own life and the people around her.</string>
+    <string name="girl_on_train_summary">Rachel Watson takes the same train every day, passing by the house she once lived in with her ex-husband. One day, she notices a couple in the house next door and becomes fascinated with them. When the woman, Megan, goes missing, Rachel finds herself entangled in the investigation, as her memories of that night become distorted. The novel explores themes of memory, obsession, and self-deception.</string>
+    <string name="reversal_summary">Part of the Harry Bosch series, The Reversal follows former FBI agent Mickey Haller as he is recruited to defend a convicted murderer seeking exoneration. The case seems clear-cut, but Haller and Bosch, his half-brother, uncover a deeper conspiracy tied to the case. The story is packed with suspense, courtroom drama, and unexpected twists.</string>
+    <string name="i_am_watching_you_summary">The novel revolves around Ella Longfield, who overhears a conversation between two young men and a girl named Anna Ballard on a train. After Anna goes missing, Ella feels guilty for not intervening, as she believes she could have prevented the crime. As Ella investigates, she uncovers dangerous secrets and the truth behind Annas disappearance. The narrative is told from multiple viewpoints, adding layers to the mystery.</string>
+    <string name="couple_next_door_summary">This thriller tells the story of Anne and Marco Conti, a couple whose baby daughter, Cora, goes missing while they are at a dinner party next door. As they try to uncover the truth behind the abduction, dark secrets about their pasts and their marriage are revealed. The novel is filled with suspense, betrayal, and unexpected twists that keep readers guessing until the end.</string>
+
+
+
+    <!-- Fantasy Book Titles -->
+    <string name="the_hobbit_title">The Hobbit</string>
+    <string name="harry_potter_title">Harry Potter and the Sorcerers Stone</string>
+    <string name="name_of_the_wind_title">The Name of the Wind</string>
+    <string name="lies_of_locke_lamora_title">The Lies of Locke Lamora</string>
+    <string name="priory_of_orange_tree_title">The Priory of the Orange Tree</string>
+    <string name="eragon_title">Eragon</string>
+    <string name="court_of_thorns_roses_title">A Court of Thorns and Roses</string>
+    <string name="night_circus_title">The Night Circus</string>
+    <string name="mistborn_final_empire_title">Mistborn: The Final Empire</string>
+    <string name="chronicles_of_narnia_title">The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</string>
+
+    <!-- Fantasy Book Summaries -->
+    <string name="the_hobbit_summary">Bilbo Baggins, a hobbit of the Shire, is swept away on an unexpected adventure when the wizard Gandalf recruits him to accompany a group of dwarves on their journey to reclaim their lost treasure from the dragon Smaug. Along the way, Bilbo encounters trolls, goblins, elves, and the mysterious Gollum, with whom he forms an unlikely bond...</string>
+    <string name="harry_potter_summary">Harry Potter, a young orphan, discovers on his 11th birthday that he is a wizard. He is taken to Hogwarts School of Witchcraft and Wizardry, where he makes new friends and uncovers a mysterious stone that has the power to grant immortality...</string>
+    <string name="name_of_the_wind_summary">This is the first book in "The Kingkiller Chronicle" series. The story is told from the perspective of Kvothe, a legendary figure who recounts his life story to a Chronicler. Kvothes journey from an orphaned child to a gifted student at the University is a tale of adventure, passion, and discovery...</string>
+    <string name="lies_of_locke_lamora_summary">Set in the city of Camorr, the story follows Locke Lamora, a master thief, and his band of criminals known as the Gentlemen Bastards. Locke becomes embroiled in a power struggle between rival gangs and a mysterious figure known as the "Gray King," where he must rely on his wits and skill to survive...</string>
+    <string name="priory_of_orange_tree_summary">This epic fantasy novel is set in a world where dragons and dragon-riders are key to maintaining peace among nations. The story follows multiple characters across different regions, preparing for an impending war with dragons and their ancient enemies...</string>
+    <string name="eragon_summary">In the land of Alagaësia, a young farm boy named Eragon discovers a mysterious blue stone that turns out to be a dragon egg. When the dragon hatches, Eragon is bound to the creature, Saphira, and must fight to stop the evil king Galbatorix...</string>
+    <string name="court_of_thorns_roses_summary">Feyre, a huntress, is taken to the magical land of the Fae after killing a wolf, who was a faerie in disguise. She is held captive in the court of Tamlin, a powerful faerie lord, and uncovers secrets and love that could change both the human and faerie realms...</string>
+    <string name="night_circus_summary">The novel centers on a magical competition between two young illusionists, Celia and Marco, who have been bound by their mentors to a duel that will last for years. The circus, full of breathtaking magical surprises, is the battleground for their competition...</string>
+    <string name="mistborn_final_empire_summary">In a world ruled by the immortal Lord Ruler, the lower classes are oppressed and forced to live in fear. Vin, a street urchin, discovers her power to use Allomancy and joins a group of rebels planning to overthrow the regime...</string>
+    <string name="chronicles_of_narnia_summary">Four children—Peter, Susan, Edmund, and Lucy—are sent to live in the countryside during World War II. They discover a wardrobe that leads to the magical land of Narnia and join the battle to defeat the evil White Witch...</string>
+
+
+
+
+    <!-- History Book Titles -->
+
+    <string name="sapiens_title">Sapiens: A Brief History of Humankind</string>
+    <string name="anne_frank_title">The Diary of a Young Girl</string>
+    <string name="guns_of_august_title">The Guns of August</string>
+    <string name="peoples_history_title">A Peoples History of the United States</string>
+    <string name="ancient_world_title">The History of the Ancient World: From the Earliest Accounts to the Fall of Rome</string>
+    <string name="silk_roads_title">The Silk Roads: A New History of the World</string>
+    <string name="rise_fall_third_reich_title">The Rise and Fall of the Third Reich</string>
+    <string name="warmth_of_other_suns_title">The Warmth of Other Suns: The Epic Story of Americas Great Migration</string>
+    <string name="immortal_life_title">The Immortal Life of Henrietta Lacks</string>
+    <string name="histories_title">The Histories</string>
+
+
+    <!-- History Book Summaries -->
+    <string name="sapiens_summary">Sapiens takes the reader on a journey through the history of the human species. From the emergence of Homo sapiens in Africa to the present day, Harari explores key milestones in human development, such as the Cognitive Revolution, the Agricultural Revolution, and the Scientific Revolution. The book delves into how human beings have shaped societies, the planet, and each other over millennia.</string>
+    <string name="anne_frank_summary">Anne Frank’s diary is a poignant account of a Jewish girl’s life during the Holocaust. Written while Anne was in hiding with her family in Amsterdam during World War II, the diary reflects her personal experiences, thoughts, and emotions as she navigates the horrors of Nazi occupation. The book explores themes of fear, hope, identity, and the resilience of the human spirit.</string>
+    <string name="guns_of_august_summary">This Pulitzer Prize-winning book details the events leading up to and the early days of World War I. Tuchman explores the political and military decisions that led to the outbreak of the war, along with the early battles that shaped its course. The book highlights the failures of diplomacy, the inflexibility of military planning, and the unforeseen consequences that led to one of the most devastating conflicts in history.</string>
+    <string name="peoples_history_summary">This book presents an alternative view of American history, focusing on the experiences of marginalized groups such as Native Americans, African Americans, women, and laborers. Zinn challenges traditional narratives that glorify the actions of political leaders and wealthy elites, offering a critique of the American political system and its treatment of underrepresented communities.</string>
+    <string name="ancient_world_summary">This book offers a comprehensive overview of ancient history, covering civilizations from Mesopotamia to the fall of Rome. Bauer provides a narrative of major historical events, figures, and societies that shaped the ancient world. The book explores the development of writing, religion, and political structures in early civilizations, as well as the rise and fall of empires like Egypt, Greece, and Persia.</string>
+    <string name="silk_roads_summary">The Silk Roads offers a fresh perspective on world history, focusing on the East rather than the West. Frankopan examines the interconnectedness of cultures, empires, and trade networks that spanned across Central Asia, the Middle East, and the Far East. The book argues that the traditional narrative of Western-centric history overlooks the importance of the Silk Road as a center of commerce, culture, and knowledge exchange.</string>
+    <string name="rise_fall_third_reich_summary">This book is a comprehensive account of Nazi Germany, from the rise of Adolf Hitler to the collapse of the Third Reich. Shirer provides a detailed analysis of the political, social, and military factors that led to the Nazi regimes rise to power, its expansion across Europe, and its eventual downfall. The book offers a deep exploration of Hitlers personality, the inner workings of the Nazi government, and the atrocities of World War II and the Holocaust.</string>
+    <string name="warmth_of_other_suns_summary">The Warmth of Other Suns tells the story of the African American migration from the rural South to urban cities in the North and West between 1915 and 1970. Wilkerson follows the lives of three individuals who made the journey, highlighting their struggles and triumphs. The book explores the social, political, and economic factors that prompted millions of African Americans to leave the oppressive Jim Crow South in search of better opportunities and freedom.</string>
+    <string name="immortal_life_summary">This book chronicles the life of Henrietta Lacks, a poor African American woman whose cells were taken without her knowledge or consent in the 1950s and later became one of the most important tools in medicine. Known as HeLa cells, they were pivotal in the development of vaccines, cancer treatments, and other medical advancements. The book traces the scientific importance of HeLa cells, the ethical issues surrounding their use, and the impact on Henrietta Lacks family.</string>
+    <string name="histories_summary">Written by the ancient Greek historian Herodotus, The Histories is considered one of the founding works of Western historical writing. The book provides an account of the Greco-Persian Wars and other events in ancient history, with particular emphasis on the customs and traditions of the peoples involved. Herodotus presents a blend of history, ethnography, and storytelling, offering a valuable glimpse into ancient civilizations and their interactions with one another.</string>
+
+
+
+
+    <!-- Biography Book Titles -->
+    <string name="steve_jobs_title">Steve Jobs</string>
+    <string name="becoming_title">Becoming</string>
+    <string name="diary_of_young_girl_title">The Diary of a Young Girl</string>
+    <string name="long_walk_to_freedom_title">Long Walk to Freedom</string>
+    <string name="alexander_hamilton_title">Alexander Hamilton</string>
+    <string name="wright_brothers_title">The Wright Brothers</string>
+    <string name="churchill_title">Churchill: A Life</string>
+    <string name="einstein_title">Einstein: His Life and Universe</string>
+    <string name="i_am_malala_title">I Am Malala</string>
+    <string name="educated_title">Educated</string>
+    <string name="the_glass_castle_title">The Glass Castle</string>
+    <string name="benjamin_franklin_title">Benjamin Franklin: An American Life</string>
+
+    <!-- Biography Book Summaries -->
+    <string name="steve_jobs_summary">This biography, based on more than forty interviews with Steve Jobs conducted over two years, tells the riveting story of his roller-coaster life and intense personality...</string>
+    <string name="becoming_summary">In her memoir, former First Lady Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from childhood to the White House...</string>
+    <string name="diary_of_young_girl_summary">This is a compelling account of a young Jewish girl’s experiences during the Holocaust, revealing her thoughts, fears, and hopes...</string>
+    <string name="long_walk_to_freedom_summary">Nelson Mandela’s autobiography covers his early life, education, and 27 years in prison, as well as his significant role in ending apartheid...</string>
+    <string name="alexander_hamilton_summary">This biography of Alexander Hamilton captures his meteoric rise from an orphan to a founding father of the United States...</string>
+    <string name="wright_brothers_summary">This biography tells the story of Orville and Wilbur Wright, who invented and flew the world’s first successful airplane...</string>
+    <string name="churchill_summary">This detailed biography of Winston Churchill covers his life as a soldier, writer, and Prime Minister of the United Kingdom during World War II...</string>
+    <string name="einstein_summary">This biography explores the life of Albert Einstein, the physicist whose theories revolutionized the understanding of the universe...</string>
+    <string name="i_am_malala_summary">In this memoir, Malala Yousafzai recounts her life story and her fight for girls education in Pakistan, surviving a Taliban attack...</string>
+    <string name="educated_summary">Tara Westovers memoir tells the story of her upbringing in rural Idaho, self-education, and transformation despite her familys radical views...</string>
+    <string name="the_glass_castle_summary">Jeannette Walls’ memoir recounts her unconventional and nomadic upbringing, revealing her resilience and survival against all odds...</string>
+    <string name="benjamin_franklin_summary">This biography of Benjamin Franklin showcases his life as a founding father, inventor, scientist, writer, and diplomat, revealing his influence on America...</string>
+
+
+
+
+    <!-- Philosophy Book Titles -->
+    <string name="sophies_world_title">Sophies World</string>
+    <string name="republic_title">The Republic</string>
+    <string name="meditations_title">Meditations</string>
+    <string name="zen_art_motorcycle_title">Zen and the Art of Motorcycle Maintenance</string>
+    <string name="mans_search_meaning_title">Mans Search for Meaning</string>
+    <string name="being_time_title">Being and Time</string>
+    <string name="stranger_title">The Stranger</string>
+    <string name="beyond_good_evil_title">Beyond Good and Evil</string>
+    <string name="critique_pure_reason_title">Critique of Pure Reason</string>
+    <string name="tao_te_ching_title">The Tao Te Ching</string>
+
+    <!-- Philosophy Book Summaries -->
+    <string name="sophies_world_summary">Sophies World is a story about a young girl named Sophie who receives mysterious letters from a philosopher named Alberto Knox. These letters introduce Sophie to the history of Western philosophy, starting from ancient Greece and moving through to modern times. The book provides a thorough yet engaging summary of Western philosophical thought, wrapped in a mystery that encourages readers to question the nature of reality and existence.</string>
+    <string name="republic_summary">The Republic is a foundational text in Western philosophy, where Socrates explores the meaning of justice and the ideal state. It examines how justice relates to happiness, politics, and morality, introducing key ideas such as the philosopher-king, the theory of forms, and the allegory of the cave, which explores the nature of reality and perception.</string>
+    <string name="meditations_summary">Meditations is a collection of personal writings by the Roman Emperor Marcus Aurelius, sharing his Stoic philosophy. The book provides practical advice on how to maintain inner peace and clarity despite lifes challenges, advocating for self-discipline, virtue, and acceptance of fate. It is a timeless guide on how to live with wisdom and resilience.</string>
+    <string name="zen_art_motorcycle_summary">Zen and the Art of Motorcycle Maintenance is a philosophical exploration disguised as a travel narrative. The story follows a father and his son on a motorcycle journey across America, delving into discussions on "quality" and examining how technology, philosophy, and the art of living intersect. It blends Eastern and Western philosophies, emphasizing the balance between the rational and emotional aspects of life.</string>
+    <string name="mans_search_meaning_summary">Mans Search for Meaning is a powerful memoir and philosophical exploration by Viktor Frankl, a Holocaust survivor. The book examines his experiences in Nazi concentration camps and introduces his theory of "logotherapy." Frankl argues that the primary drive in human beings is the search for meaning, even in the face of suffering, and that finding purpose is essential for well-being.</string>
+    <string name="being_time_summary">Being and Time is a profound and complex philosophical text exploring the nature of being. Heidegger introduces concepts like "Dasein" (being-there) to analyze human existence, time, and the way we experience reality. It is a central work in existential and phenomenological philosophy, challenging traditional metaphysical approaches to understanding existence.</string>
+    <string name="stranger_summary">The Stranger, although technically a novel, is a philosophical exploration of existentialism and absurdism. The story follows Meursault, a French Algerian who commits a senseless murder and faces an indifferent justice system. Camus uses the story to explore the idea of the absurd—the conflict between human desire for meaning and an indifferent universe—and how one finds meaning in an absurd world.</string>
+    <string name="beyond_good_evil_summary">Beyond Good and Evil is a critique of traditional Western philosophy, challenging the foundations of morality and truth. Nietzsche argues that moral values are social constructs and introduces ideas like the "will to power" and the "übermensch" (superman). It is a provocative exploration of ethics, metaphysics, and the nature of truth.</string>
+    <string name="critique_pure_reason_summary">Critique of Pure Reason is a challenging but fundamental work in philosophy that addresses how we perceive the world. Kant distinguishes between phenomena (the world as we perceive it) and noumena (the world as it is in itself), and argues that our knowledge is shaped by the human minds inherent structures. It is a deep dive into epistemology, the theory of knowledge.</string>
+    <string name="tao_te_ching_summary">The Tao Te Ching is an ancient Chinese text that is a central piece of Taoist philosophy. It is a collection of sayings and poems that emphasize living in harmony with the "Tao" (the Way), the natural order of the universe. The book promotes simplicity, humility, and mindfulness, encouraging readers to align with the natural flow of life rather than resisting it.</string>
+
+
+
+    <!-- Art Book Titles -->
+    <string name="goldfinch_title">The Goldfinch</string>
+    <string name="girl_with_pearl_earring_title">Girl with a Pearl Earring</string>
+    <string name="art_forger_title">The Art Forger</string>
+    <string name="dorian_gray_title">The Picture of Dorian Gray</string>
+    <string name="shadow_of_the_wind_title">The Shadow of the Wind</string>
+    <string name="collector_title">The Collector</string>
+    <string name="improbability_of_love_title">The Improbability of Love</string>
+    <string name="secret_lives_of_color_title">The Secret Lives of Color</string>
+    <string name="passion_of_artemisia_title">The Passion of Artemisia</string>
+    <string name="i_am_a_cat_title">I Am a Cat</string>
+
+    <!-- Art Book Summaries -->
+    <string name="goldfinch_summary">The Goldfinch is a Pulitzer Prize-winning novel that follows the life of a young boy named Theo Decker, whose mother dies in a terrorist attack at an art museum. Amid the chaos, Theo steals a famous Dutch painting, The Goldfinch, which becomes both a burden and a source of comfort for him. The story traces Theos turbulent journey through grief, guilt, and the underworld of art forgery, emphasizing the enduring power of art to transform lives.</string>
+    <string name="girl_with_pearl_earring_summary">Set in 17th-century Delft, Holland, this historical novel is inspired by Johannes Vermeers famous painting, Girl with a Pearl Earring. The story revolves around Griet, a young maid in the Vermeer household, who becomes the artists assistant and ultimately his muse for the iconic painting. The novel delves into themes of class, power, and the complex relationships within the artists household, all while vividly bringing the art of the Dutch Golden Age to life.</string>
+    <string name="art_forger_summary">This modern mystery novel is centered around Claire Roth, a talented artist with a tarnished reputation who makes her living by reproducing famous artworks. Claire is offered a lucrative opportunity to forge a painting that was stolen in the infamous Isabella Stewart Gardner Museum heist. As she gets deeper into the project, she uncovers secrets about the painting, leading to a thrilling journey involving art forgery, scandal, and intrigue.</string>
+    <string name="dorian_gray_summary">This classic novel by Oscar Wilde tells the story of a handsome young man, Dorian Gray, who becomes obsessed with maintaining his beauty after having his portrait painted by artist Basil Hallward. Influenced by Lord Henry Wottons hedonistic philosophy, Dorian wishes that his portrait ages instead of him. As he indulges in a life of excess and vice, the painting bears the marks of his corruption while he remains outwardly youthful.</string>
+    <string name="shadow_of_the_wind_summary">This novel is set in post-World War II Barcelona and follows a young boy named Daniel, who discovers a mysterious book called The Shadow of the Wind by an obscure author, Julián Carax, in a hidden library. As Daniel grows up, he becomes entangled in a dark and thrilling adventure that uncovers the secrets of the author’s life.</string>
+    <string name="collector_summary">The Collector is a psychological thriller that tells the story of Frederick Clegg, a socially awkward clerk and butterfly collector who becomes infatuated with a beautiful art student, Miranda Grey. Obsessed with her, he kidnaps Miranda and keeps her captive in his basement, believing that his collection is now complete.</string>
+    <string name="improbability_of_love_summary">This novel revolves around a young woman named Annie McDee, who stumbles upon a lost masterpiece in a junk shop. The painting, The Improbability of Love, has a mysterious history and soon draws the attention of art collectors, dealers, and aristocrats, each with their own agenda.</string>
+    <string name="secret_lives_of_color_summary">This is a fascinating non-fiction book that reads like a storybook, exploring the history and stories behind 75 colors, shades, and hues. From the mysterious origins of colors like Tyrian Purple to the allure of Ultramarine, each chapter reveals the art, science, and cultural significance of color throughout history.</string>
+    <string name="passion_of_artemisia_summary">This historical novel is based on the life of Artemisia Gentileschi, a real-life 17th-century Italian painter who overcame scandal and adversity to become one of the first recognized female artists in a male-dominated world. The story follows Artemisias journey from the trauma of a public trial for rape to her quest for artistic success and independence.</string>
+    <string name="i_am_a_cat_summary">"I Am a Cat" is a satirical novel narrated by a nameless cat observing the quirks of Japanese society in the early 20th century. The book humorously critiques the lives of intellectuals, artists, and bourgeois culture in Japan during a time of great cultural change.</string>
+
+
+
+
+
+    <!-- Technology Book Titles and Summaries -->
+    <string name="the_circle_title">The Circle</string>
+    <string name="ready_player_one_title">Ready Player One</string>
+    <string name="the_diamond_age_title">The Diamond Age</string>
+    <string name="daemon_title">Daemon</string>
+    <string name="autonomous_title">Autonomous</string>
+    <string name="hunger_games_title">The Hunger Games</string>
+    <string name="windup_girl_title">The Windup Girl</string>
+    <string name="super_sad_true_love_story_title">Super Sad True Love Story</string>
+    <string name="singularity_is_near_title">The Singularity is Near</string>
+
+
+
+    <string name="the_circle_summary">The Circle follows Mae Holland, a young woman who joins a tech company called The Circle, a massive, all-encompassing social media platform...</string>
+    <string name="ready_player_one_summary">In a future where the world is in social and economic decline, most people escape into the OASIS, a massive virtual reality universe...</string>
+    <string name="the_diamond_age_summary">In a future world dominated by nanotechnology, The Diamond Age centers on Nell, a young girl from a poor background who comes into possession of an interactive book...</string>
+    <string name="daemon_summary">In Daemon, the death of a famous game designer triggers the activation of a self-replicating, fully automated program that manipulates global markets...</string>
+    <string name="autonomous_summary">Autonomous tells the story of Jack, a pharmaceutical pirate, who creates and distributes illegal copies of patented drugs to the people in need...</string>
+    <string name="hunger_games_summary">Set in a post-apocalyptic world, The Hunger Games follows Katniss Everdeen, a young girl who lives in a society divided into districts controlled by a central, authoritarian government...</string>
+    <string name="windup_girl_summary">The Windup Girl explores a world where genetic engineering and corporate-controlled technology dominate...</string>
+    <string name="super_sad_true_love_story_summary">In a near-future America, Super Sad True Love Story follows the relationship between Lenny, a middle-aged man obsessed with his iPhone...</string>
+    <string name="singularity_is_near_summary">The Singularity is Near discusses the idea that AI and technological advancements will soon lead to a singularity...</string>
+
+
+
+
+
+    <!-- Self-Help Book Titles and Summaries -->
+
+    <string name="the_power_of_now_title">The Power of Now</string>
+    <string name="atomic_habits_title">Atomic Habits</string>
+    <string name="the_7_habits_title">The 7 Habits of Highly Effective People</string>
+    <string name="you_are_a_badaass_title">You Are a Badass</string>
+    <string name="dare_to_lead_title">Dare to Lead</string>
+    <string name="the_four_agreements_title">The Four Agreements</string>
+    <string name="the_miracle_morning_title">The Miracle Morning</string>
+    <string name="mindset_title">Mindset: The New Psychology of Success</string>
+    <string name="grit_title">Grit: The Power of Passion and Perseverance</string>
+
+
+
+
+    <string name="the_power_of_now_summary">This book emphasizes the importance of living in the present moment and freeing oneself from the mental patterns that cause stress, anxiety, and unhappiness. It teaches mindfulness and awareness as tools for experiencing peace and joy.</string>
+    <string name="atomic_habits_summary">James Clear explores the power of small habits and how they compound over time to create significant changes. The book provides actionable strategies to build good habits, break bad ones, and master tiny behaviors for remarkable results.</string>
+    <string name="the_7_habits_summary">Stephen R. Covey presents seven fundamental principles that help improve personal and professional effectiveness, covering time management, leadership, and relationships. These principles help one live a life of integrity, fairness, and human dignity.</string>
+    <string name="you_are_a_badaass_summary">Jen Sincero encourages readers to embrace their inner power, pursue their dreams, and achieve their goals. The book is motivational, filled with humor and personal anecdotes to help readers break through self-doubt and make positive changes.</string>
+    <string name="dare_to_lead_summary">Brené Brown emphasizes vulnerability, trust, and empathy as key components of effective leadership. The book shows that leaders who embrace these qualities can build resilient teams and organizations.</string>
+    <string name="the_four_agreements_summary">Don Miguel Ruiz introduces four principles to personal freedom: Be impeccable with your word, Dont take anything personally, Dont make assumptions, and Always do your best. These agreements help break free from limiting beliefs.</string>
+    <string name="the_miracle_morning_summary">Hal Elrod introduces a morning routine (S.A.V.E.R.S.) that combines Silence, Affirmations, Visualization, Exercise, Reading, and Scribing to help people take control of their lives and achieve personal and professional success.</string>
+    <string name="mindset_summary">Carol Dweck explores the concept of "growth mindset," explaining how believing that abilities can be developed leads to greater success in all areas of life, compared to the fixed mindset, which limits growth and achievement.</string>
+    <string name="grit_summary">Angela Duckworth defines "grit" as a combination of passion and perseverance in achieving long-term goals. She demonstrates through research that grit is a better predictor of success than talent or intelligence.</string>
+    <string name="types_of_books">Types Of Books</string>
+    <string name="books">Books</string>
+
+
 </resources>
+
+
+
